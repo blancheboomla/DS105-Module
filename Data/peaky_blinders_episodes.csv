@@ -1,0 +1,37 @@
+tv_show,season_num,season_url,episode_num,episode_url,episode_title,air_date
+Peaky Blinders,1,http://peaky-blinders.fandom.com/wiki/Series_1,1,https://peaky-blinders.fandom.com/wiki/Episode_1.1,Episode 1,2013-09-12
+Peaky Blinders,1,http://peaky-blinders.fandom.com/wiki/Series_1,2,https://peaky-blinders.fandom.com/wiki/Episode_1.2,Episode 2,2013-09-19
+Peaky Blinders,1,http://peaky-blinders.fandom.com/wiki/Series_1,3,https://peaky-blinders.fandom.com/wiki/Episode_1.3,Episode 3,2013-09-26
+Peaky Blinders,1,http://peaky-blinders.fandom.com/wiki/Series_1,4,https://peaky-blinders.fandom.com/wiki/Episode_1.4,Episode 4,2013-10-03
+Peaky Blinders,1,http://peaky-blinders.fandom.com/wiki/Series_1,5,https://peaky-blinders.fandom.com/wiki/Episode_1.5,Episode 5,2013-10-10
+Peaky Blinders,1,http://peaky-blinders.fandom.com/wiki/Series_1,6,https://peaky-blinders.fandom.com/wiki/Episode_1.6,Episode 6,2013-10-17
+Peaky Blinders,2,http://peaky-blinders.fandom.com/wiki/Series_2,1,https://peaky-blinders.fandom.com/wiki/Episode_2.1,Episode 1,2014-10-02
+Peaky Blinders,2,http://peaky-blinders.fandom.com/wiki/Series_2,2,https://peaky-blinders.fandom.com/wiki/Episode_2.2,Episode 2,2014-10-09
+Peaky Blinders,2,http://peaky-blinders.fandom.com/wiki/Series_2,3,https://peaky-blinders.fandom.com/wiki/Episode_2.3,Episode 3,2014-10-16
+Peaky Blinders,2,http://peaky-blinders.fandom.com/wiki/Series_2,4,https://peaky-blinders.fandom.com/wiki/Episode_2.4,Episode 4,2014-10-23
+Peaky Blinders,2,http://peaky-blinders.fandom.com/wiki/Series_2,5,https://peaky-blinders.fandom.com/wiki/Episode_2.5,Episode 5,2014-10-30
+Peaky Blinders,2,http://peaky-blinders.fandom.com/wiki/Series_2,6,https://peaky-blinders.fandom.com/wiki/Episode_2.6,Episode 6,2014-11-06
+Peaky Blinders,3,http://peaky-blinders.fandom.com/wiki/Series_3,1,https://peaky-blinders.fandom.com/wiki/Episode_3.1,Episode 1,2016-05-05
+Peaky Blinders,3,http://peaky-blinders.fandom.com/wiki/Series_3,2,https://peaky-blinders.fandom.com/wiki/Episode_3.2,Episode 2,2016-05-12
+Peaky Blinders,3,http://peaky-blinders.fandom.com/wiki/Series_3,3,https://peaky-blinders.fandom.com/wiki/Episode_3.3,Episode 3,2016-05-19
+Peaky Blinders,3,http://peaky-blinders.fandom.com/wiki/Series_3,4,https://peaky-blinders.fandom.com/wiki/Episode_3.4,Episode 4,2016-05-26
+Peaky Blinders,3,http://peaky-blinders.fandom.com/wiki/Series_3,5,https://peaky-blinders.fandom.com/wiki/Episode_3.5,Episode 5,2016-06-02
+Peaky Blinders,3,http://peaky-blinders.fandom.com/wiki/Series_3,6,https://peaky-blinders.fandom.com/wiki/Episode_3.6,Episode 6,2016-06-09
+Peaky Blinders,4,http://peaky-blinders.fandom.com/wiki/Series_4,1,https://peaky-blinders.fandom.com/wiki/Episode_4.1,The Noose,2017-11-15
+Peaky Blinders,4,http://peaky-blinders.fandom.com/wiki/Series_4,2,https://peaky-blinders.fandom.com/wiki/Episode_4.2,Heathens,2017-11-22
+Peaky Blinders,4,http://peaky-blinders.fandom.com/wiki/Series_4,3,https://peaky-blinders.fandom.com/wiki/Episode_4.3,Blackbird,2017-11-29
+Peaky Blinders,4,http://peaky-blinders.fandom.com/wiki/Series_4,4,https://peaky-blinders.fandom.com/wiki/Episode_4.4,Dangerous,2017-12-06
+Peaky Blinders,4,http://peaky-blinders.fandom.com/wiki/Series_4,5,https://peaky-blinders.fandom.com/wiki/Episode_4.5,The Duel,2017-12-13
+Peaky Blinders,4,http://peaky-blinders.fandom.com/wiki/Series_4,6,https://peaky-blinders.fandom.com/wiki/Episode_4.6,The Company,2017-12-20
+Peaky Blinders,5,http://peaky-blinders.fandom.com/wiki/Series_5,1,https://peaky-blinders.fandom.com/wiki/Black_Tuesday,Black Tuesday,2019-08-25
+Peaky Blinders,5,http://peaky-blinders.fandom.com/wiki/Series_5,2,https://peaky-blinders.fandom.com/wiki/Black_Cats,Black Cats,2019-08-26
+Peaky Blinders,5,http://peaky-blinders.fandom.com/wiki/Series_5,3,https://peaky-blinders.fandom.com/wiki/Strategy,Strategy,2019-09-01
+Peaky Blinders,5,http://peaky-blinders.fandom.com/wiki/Series_5,4,https://peaky-blinders.fandom.com/wiki/The_Loop,The Loop,2019-09-08
+Peaky Blinders,5,http://peaky-blinders.fandom.com/wiki/Series_5,5,https://peaky-blinders.fandom.com/wiki/The_Shock,The Shock,2019-09-15
+Peaky Blinders,5,http://peaky-blinders.fandom.com/wiki/Series_5,6,https://peaky-blinders.fandom.com/wiki/Mr_Jones,Mr Jones,2019-09-22
+Peaky Blinders,6,http://peaky-blinders.fandom.com/wiki/Series_6,1,https://peaky-blinders.fandom.com/wiki/Black_Day,Black Day,2022-02-27
+Peaky Blinders,6,http://peaky-blinders.fandom.com/wiki/Series_6,2,https://peaky-blinders.fandom.com/wiki/Black_Shirt,Black Shirt,2022-03-06
+Peaky Blinders,6,http://peaky-blinders.fandom.com/wiki/Series_6,3,https://peaky-blinders.fandom.com/wiki/Gold,Gold,2022-03-13
+Peaky Blinders,6,http://peaky-blinders.fandom.com/wiki/Series_6,4,https://peaky-blinders.fandom.com/wiki/Sapphire,Sapphire,2022-03-20
+Peaky Blinders,6,http://peaky-blinders.fandom.com/wiki/Series_6,5,https://peaky-blinders.fandom.com/wiki/The_Road_to_Hell,The Road to Hell,2022-03-27
+Peaky Blinders,6,http://peaky-blinders.fandom.com/wiki/Series_6,6,https://peaky-blinders.fandom.com/wiki/Lock_and_Key,Lock and Key,2022-04-03
