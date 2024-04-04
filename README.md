@@ -1,6 +1,7 @@
 # DS105-Module
-Examples of summative work for DS105 modu
+Examples of summative work for DS105 module
 
+## Notebooks Folder
 **1. NB01 Data Collection - 28109**
 - This notebook scrapes the LSE's IR dept webpage
 - Output: Menu.json (A dictionary of the subheadings and their links)
