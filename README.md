@@ -99,7 +99,31 @@ Negative values (-1 to -5) indicate non-responses and should be treated as missi
 ---
 
 ## Folder Structure
-wvs_traditional_values_analysis/ │ ├── README.md # Project documentation │ ├── data/ # Data files organized by stage │ ├── raw/ # Raw original files (e.g., WVS_random_subset2000.csv, codebook.pdf) │ ├── transformed/ # Intermediate transformation outputs │ ├── clean/ # Final cleaned datasets ready for analysis │ └── demographics/ # Subset of demographic variables used for modeling (optional) │ ├── notebooks/ # Exploratory and final analysis notebooks │ └── traditional_values_analysis.ipynb │ ├── outputs/ # Generated outputs │ ├── figures/ # Graphs, plots │ └── tables/ # Summary statistics, model outputs │ ├── scripts/ # Scripts for cleaning, transformation, modeling │ ├── clean_data.py │ ├── transform_data.py │ └── run_models.py │ └── requirements.txt # Python package dependencies
+```plaintext
+wvs_traditional_values_analysis/
+│
+├── README.md                   # Project documentation
+│
+├── data/                        # Data files organized by stage
+│   ├── raw/                     # Raw original files (e.g., WVS_random_subset2000.csv, codebook.pdf)
+│   ├── transformed/             # Intermediate cleaned files
+│   ├── clean/                   # Final cleaned datasets ready for analysis
+│   └── demographics/            # Extracted demographic variable datasets
+│
+├── notebooks/                   # Exploratory and final analysis notebooks
+│   └── traditional_values_analysis.ipynb
+│
+├── outputs/                     # Generated outputs
+│   ├── figures/                 # Graphs, plots
+│   └── tables/                  # Summary statistics, model outputs
+│
+├── scripts/                     # Scripts for data processing and modeling
+│   ├── clean_data.py
+│   ├── transform_data.py
+│   └── run_models.py
+│
+└── requirements.txt             # Python package dependencies'''
+
 
 
 ## Requirements
