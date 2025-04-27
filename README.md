@@ -17,8 +17,6 @@ Examples of summative work for DS105 module
          2. Using matplotlib: 'Most mentioned characters throughout the seasons'
     
 
-
-
 # Traditional Social Values Analysis - World Values Survey
 
 ## Project Overview
@@ -123,8 +121,7 @@ wvs_traditional_values_analysis/
 │
 └── requirements.txt             # Python dependencies list
 
-
-
+```
 
 ## Requirements
 
