@@ -106,23 +106,23 @@ wvs_traditional_values_analysis/
 │
 ├── data/                        # Data files organized by stage
 │   ├── raw/                     # Raw original files (e.g., WVS_random_subset2000.csv, codebook.pdf)
-│   ├── transformed/             # Intermediate cleaned files
-│   ├── clean/                   # Final cleaned datasets ready for analysis
-│   └── demographics/            # Extracted demographic variable datasets
+│   ├── transformed/             # Intermediate cleaned files (e.g., missing values handled, recoded scales)
+│   └── clean/                   # Final datasets ready for analysis (e.g., traditional values index computed)
 │
-├── notebooks/                   # Exploratory and final analysis notebooks
+├── notebooks/                   # Jupyter or R notebooks for exploration and final reports
 │   └── traditional_values_analysis.ipynb
 │
-├── outputs/                     # Generated outputs
-│   ├── figures/                 # Graphs, plots
-│   └── tables/                  # Summary statistics, model outputs
+├── outputs/                     # Generated results
+│   ├── figures/                 # Plots and graphs
+│   └── tables/                  # Statistical tables, regression outputs
 │
-├── scripts/                     # Scripts for data processing and modeling
-│   ├── clean_data.py
-│   ├── transform_data.py
-│   └── run_models.py
+├── scripts/                     # Scripts for processing and analysis
+│   ├── clean_data.py             # Script for cleaning and preparing the data
+│   ├── transform_data.py         # Script for variable transformation and index building
+│   └── run_models.py             # Script for running analysis models
 │
-└── requirements.txt             # Python package dependencies'''
+└── requirements.txt             # Python dependencies list
+
 
 
 
